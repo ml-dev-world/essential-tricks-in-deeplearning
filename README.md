@@ -1,6 +1,8 @@
 # Essential Tricks in Deep Learning
 
-![Deep Learning](https://your_image_url_here.jpg)
+<p align="center">
+  <img src="https://your_image_url_here.jpg" alt="Deep Learning">
+</p>
 
 Master key techniques to enhance your deep learning skills. This repository is a concise guide to essential tricks for optimizing model performance.
 
@@ -26,8 +28,18 @@ Master key techniques to enhance your deep learning skills. This repository is a
 
 ## YouTube Playlist
 
-[![YouTube Playlist](https://your_youtube_playlist_thumbnail_url_here.jpg)](https://www.youtube.com/playlist?list=PL4HNImpE6EWinFM0YutqEAigEFhcYtmtX)
+<p align="center">
+  <a href="https://www.youtube.com/playlist?list=PL4HNImpE6EWinFM0YutqEAigEFhcYtmtX">
+    <img src="https://your_youtube_playlist_thumbnail_url_here.jpg" alt="YouTube Playlist">
+  </a>
+</p>
 
 Check out the corresponding YouTube playlist for video tutorials on these techniques.
 
-Feel free to contribute, provide feedback, and star the repository if you find it helpful!
+## Getting Started
+
+Clone the repository and explore the notebooks to level up your deep learning skills.
+
+```bash
+git clone https://github.com/your_username/essential-tricks-in-deeplearning.git
+cd essential-tricks-in-deeplearning
