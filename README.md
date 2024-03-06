@@ -28,9 +28,11 @@ Master key techniques to enhance your deep learning skills. This repository is a
 
 ## YouTube Playlist
 
+
+
 <p align="center">
   <a href="https://www.youtube.com/playlist?list=PL4HNImpE6EWinFM0YutqEAigEFhcYtmtX">
-    <img src="https://your_youtube_playlist_thumbnail_url_here.jpg" alt="YouTube Playlist">
+    <img src="https://i.ytimg.com/vi/LvP-hmWGex4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAsQEQayoWWnik8WVg35r2DUJO6gg" alt="YouTube Playlist">
   </a>
 </p>
 
