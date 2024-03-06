@@ -43,3 +43,13 @@ Clone the repository and explore the notebooks to level up your deep learning sk
 ```bash
 git clone https://github.com/your_username/essential-tricks-in-deeplearning.git
 cd essential-tricks-in-deeplearning
+```
+
+## Contributing
+We welcome contributions from the community! If you have suggestions, bug reports, or want to add new tricks to the repository, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-trick`.
+3. Make your changes and commit: `git commit -m 'Add new trick: Feature Name'`.
+4. Push to the branch: `git push origin feature/new-trick`.
+5. Open a pull request.
