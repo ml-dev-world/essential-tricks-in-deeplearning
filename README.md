@@ -26,6 +26,8 @@ Master key techniques to enhance your deep learning skills. This repository is a
 16. [Smoothing Gradients With Gradient Penalty](./16_Smoothing_Gradients_With_Gradient_Penalty.ipynb) - Implement gradient penalty for smoother training gradients.
 17. [Accumulating Gradient For Efficient Training](./17_Accumulating_Gradient_For_Efficient_Training.ipynb) - Optimize training efficiency by accumulating gradients.
 18. [Automatic Mixed Precision Training](./18_Automatic_Mixed_Precision_Training.ipynb) -  Accelerate training by using a combination of lower-precision and higher-precision numerical representations.
+19. [Effective Model Checkpointing](./19_Effective_Model_Checkpointing.ipynb) - Selecting the best-performing model.
+20. [Early Stopping Strategies For Training](./20_Early_Stopping_Strategies_For_Training.ipynb) - Selection of a reasonably optimal model.
 
 ## YouTube Playlist
 
