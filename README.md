@@ -1,10 +1,10 @@
-# Essential Tricks in Deep Learning
+# Essential Tricks In Deep Learning
 
 <p align="center">
   <img src="https://assets.spe.org/dims4/default/7c6d2d6/2147483647/strip/true/crop/1051x552+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fspe-brightspot.s3.amazonaws.com%2F53%2F9d%2F228eca9b412bb1e3aa8b76d5f9db%2Fdaaiml.jpg" alt="Deep Learning">
 </p>
 
-Master key techniques to enhance your deep learning skills. This repository is a concise guide to essential tricks for optimizing model performance.
+Master key techniques to enhance your deep learning skills. The repository is a guide to essential tricks for optimizing model performance.
 
 ## Table of Contents
 
