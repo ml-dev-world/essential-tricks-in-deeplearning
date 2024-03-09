@@ -28,6 +28,9 @@ Master key techniques to enhance your deep learning skills. This repository is a
 18. [Automatic Mixed Precision Training](./18_Automatic_Mixed_Precision_Training.ipynb) -  Accelerate training by using a combination of lower-precision and higher-precision numerical representations.
 19. [Effective Model Checkpointing](./19_Effective_Model_Checkpointing.ipynb) - Selecting the best-performing model.
 20. [Early Stopping Strategies For Training](./20_Early_Stopping_Strategies_For_Training.ipynb) - Selection of a reasonably optimal model.
+21. [Experiment Tracking With mlflow](./21_Experiment_Tracking_With_mlflow.ipynb) - mlflow for Experiment Tracking
+22. [Logging Model Parameters](./22_Logging_Model_Parameters.ipynb) - Logging model parameters - flops, trainable params, size etc.
+23. [Understanding CUDA Memory Usage](./23_Understanding_CUDA_Memory_Usage) - Manage GPU Usage.
 
 ## YouTube Playlist
 
