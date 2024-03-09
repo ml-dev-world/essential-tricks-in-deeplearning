@@ -34,8 +34,6 @@ Master key techniques to enhance your deep learning skills. The repository is a 
 
 ## YouTube Playlist
 
-
-
 <p align="center">
   <a href="https://www.youtube.com/playlist?list=PL4HNImpE6EWinFM0YutqEAigEFhcYtmtX">
     <img src="https://i.ytimg.com/vi/LvP-hmWGex4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAsQEQayoWWnik8WVg35r2DUJO6gg" alt="YouTube Playlist">
@@ -54,6 +52,7 @@ cd essential-tricks-in-deeplearning
 ```
 
 ## Contributing
+
 We welcome contributions from the community! If you have suggestions, bug reports, or want to add new tricks to the repository, follow these steps:
 
 1. Fork the repository.
