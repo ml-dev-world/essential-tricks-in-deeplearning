@@ -111,7 +111,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [ ] Differential Learning Rate
 - [ ] Layerwise Learning Rate Decay
 - [ ] Freeze / Unfreeze
-- [ ] Progressive Scaling
+- [ ] Progressive Image Resizing
 - [ ] Self Distillation
 - [ ] OneCycleLR
 - [ ] Distributed Training
