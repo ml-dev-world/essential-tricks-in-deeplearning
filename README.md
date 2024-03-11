@@ -77,26 +77,18 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 ### GitHub
 
-- https://github.com/google-research/tuning_playbook
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
 - [Deep Learning Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks)
-- (https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/TrainingTricks.md)
-- (https://github.com/sherdencooper/tricks-in-deeplearning)
-- (https://github.com/bobchennan/tricks-used-in-deep-learning)
-- (https://github.com/Mountchicken/Efficient-Deep-Learning)
-- (https://github.com/ayyucedemirbas/Deep-Learning-Tips-and-Tricks)
-- 
+- [Deep Learning Training Tricks](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/TrainingTricks.md)
+- [Tricks In Deep Learning](https://github.com/sherdencooper/tricks-in-deeplearning)
+- [Tricks used in Deep Learning](https://github.com/bobchennan/tricks-used-in-deep-learning)
+- [Efficient Deep Learning](https://github.com/Mountchicken/Efficient-Deep-Learning)
+- [Deep Learning Tips and Tricks](https://github.com/ayyucedemirbas/Deep-Learning-Tips-and-Tricks)
 
 ### Papers
 
-- [Article 1 Title](https://article-1-link.com)
-
-### Videos
-
-- [Community Forum](https://community-forum-link.com)
-
-### Related Projects
-
-- [Related Project 1](https://related-project-1-link.com)
+- [Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study](https://arxiv.org/abs/2108.10521)
+- [Tricks From Deep Learning](https://arxiv.org/abs/1611.03777)
 
 ## To-Do
 
