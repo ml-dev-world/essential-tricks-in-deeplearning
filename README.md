@@ -1,4 +1,4 @@
-![image](https://github.com/ml-dev-world/essential-tricks-in-deeplearning/assets/40518677/789749a5-519c-4037-8b68-c25270f9e1af)# Essential Tricks In Deep Learning
+# Essential Tricks In Deep Learning
 
 <p align="center">
   <img src="https://assets.spe.org/dims4/default/7c6d2d6/2147483647/strip/true/crop/1051x552+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fspe-brightspot.s3.amazonaws.com%2F53%2F9d%2F228eca9b412bb1e3aa8b76d5f9db%2Fdaaiml.jpg" alt="Deep Learning">
