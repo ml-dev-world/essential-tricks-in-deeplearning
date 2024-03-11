@@ -92,9 +92,9 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 ## To-Do
 
-- [-] Deep Dive Into Error Analysis
-- [-] Understanding Confusion Matrix in Deep Learning
-- [-] Classwise Metrics for Model Evaluation
+- [x] Deep Dive Into Error Analysis
+- [x] Understanding Confusion Matrix in Deep Learning
+- [x] Classwise Metrics for Model Evaluation
 - [ ] Enhance Testing with Test Time Augmentation
 - [ ] Improving Stability with Exponential Moving Average
 - [ ] Stochastic Weight Averaging
