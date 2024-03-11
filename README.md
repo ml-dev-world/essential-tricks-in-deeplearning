@@ -65,29 +65,38 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 ## Resources
 
-### Documentation
+### Articles
 
-- [Link to Documentation](https://your-documentation-link.com)
+- [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+- [Performance Tuning Guide](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html#enable-asynchronous-data-loading-and-augmentation)
+- [Speed Up Model Training](https://lightning.ai/docs/pytorch/stable/advanced/speed.html)
+- [Methods and tools for efficient training on a single GPU](https://huggingface.co/docs/transformers/en/perf_train_gpu_one)
+- [5 Must-Have Tricks When Training Neural Networks](https://deci.ai/blog/tricks-training-neural-networks/)
+- [Deep Learning Tips and Tricks](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
+- [Neural Network Tips and Tricks](https://thedatascientist.com/tips-tricks-neural-networks/)
 
-### Tutorials
+### GitHub
 
-- [Tutorial 1 Title](https://tutorial-1-link.com)
-- [Tutorial 2 Title](https://tutorial-2-link.com)
+- https://github.com/google-research/tuning_playbook
+- [Deep Learning Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks)
+- (https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/TrainingTricks.md)
+- (https://github.com/sherdencooper/tricks-in-deeplearning)
+- (https://github.com/bobchennan/tricks-used-in-deep-learning)
+- (https://github.com/Mountchicken/Efficient-Deep-Learning)
+- (https://github.com/ayyucedemirbas/Deep-Learning-Tips-and-Tricks)
+- 
 
-### Additional Reading
+### Papers
 
 - [Article 1 Title](https://article-1-link.com)
-- [Article 2 Title](https://article-2-link.com)
 
-### Community
+### Videos
 
 - [Community Forum](https://community-forum-link.com)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/your-project)
 
 ### Related Projects
 
 - [Related Project 1](https://related-project-1-link.com)
-- [Related Project 2](https://related-project-2-link.com)
 
 ## To-Do
 
