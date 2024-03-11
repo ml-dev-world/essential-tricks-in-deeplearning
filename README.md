@@ -32,7 +32,10 @@ Master key techniques to enhance your deep learning skills. This repository is a
 22. [Logging Model Parameters](./22_Logging_Model_Parameters.ipynb) - Logging model parameters - flops, trainable params, size etc.
 23. [Understanding CUDA Memory Usage](./23_Understanding_CUDA_Memory_Usage) - Manage GPU Usage.
 24. [Hyperparameter Tuning With optuna](./24_Hyperparameter_Tuning_With_optuna.ipynb) - Automate the optimization process of hyperparameters.
-25. [Hyperparameter Tuning With optuna - Training](./24_2_Hyperparameter_Tuning_With_optuna.ipynb) - Notebook demonstrating training with optimal hyperparams.
+24.2. [Hyperparameter Tuning With optuna - Training](./24_2_Hyperparameter_Tuning_With_optuna.ipynb) - Notebook demonstrating training with optimal hyperparams.
+25. [Deep Dive Into Error Analysis](./25_Deep_Dive_Into_Error_Analysis.ipynb) - How to calculate and evaluate your model.
+26. [Understanding Confusion Matrix in Deep Learning](./26_Understanding_Confusion_Matrix_In_Deep_Learning.ipynb) - Implement confusion matrix.
+27. [Classwise Metrics for Model Evaluation](27_Classwise_Metrics_For_Model_Evaluation.ipynb) - How to calculate class wise metrics.
 
 ## YouTube Playlist
 
@@ -92,9 +95,9 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 ## To-Do
 
-- [ ] Deep Dive Into Error Analysis
-- [ ] Understanding Confusion Matrix in Deep Learning
-- [ ] Classwise Metrics for Model Evaluation
+- [x] Deep Dive Into Error Analysis
+- [x] Understanding Confusion Matrix in Deep Learning
+- [x] Classwise Metrics for Model Evaluation
 - [ ] Enhance Testing with Test Time Augmentation
 - [ ] Improving Stability with Exponential Moving Average
 - [ ] Stochastic Weight Averaging
