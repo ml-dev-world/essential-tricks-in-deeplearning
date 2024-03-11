@@ -31,6 +31,8 @@ Master key techniques to enhance your deep learning skills. This repository is a
 21. [Experiment Tracking With mlflow](./21_Experiment_Tracking_With_mlflow.ipynb) - mlflow for Experiment Tracking
 22. [Logging Model Parameters](./22_Logging_Model_Parameters.ipynb) - Logging model parameters - flops, trainable params, size etc.
 23. [Understanding CUDA Memory Usage](./23_Understanding_CUDA_Memory_Usage) - Manage GPU Usage.
+24. [Hyperparameter Tuning With optuna](./24_Hyperparameter_Tuning_With_optuna.ipynb) - Automate the optimization process of hyperparameters.
+25. [Hyperparameter Tuning With optuna - Training](./24_2_Hyperparameter_Tuning_With_optuna.ipynb) - Notebook demonstrating training with optimal hyperparams.
 
 ## YouTube Playlist
 
