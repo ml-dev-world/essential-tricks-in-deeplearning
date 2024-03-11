@@ -1,4 +1,4 @@
-# Essential Tricks In Deep Learning
+![image](https://github.com/ml-dev-world/essential-tricks-in-deeplearning/assets/40518677/789749a5-519c-4037-8b68-c25270f9e1af)# Essential Tricks In Deep Learning
 
 <p align="center">
   <img src="https://assets.spe.org/dims4/default/7c6d2d6/2147483647/strip/true/crop/1051x552+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fspe-brightspot.s3.amazonaws.com%2F53%2F9d%2F228eca9b412bb1e3aa8b76d5f9db%2Fdaaiml.jpg" alt="Deep Learning">
@@ -62,3 +62,52 @@ We welcome contributions from the community! If you have suggestions, bug report
 3. Make your changes and commit: `git commit -m 'Add new trick: Feature Name'`.
 4. Push to the branch: `git push origin feature/new-trick`.
 5. Open a pull request.
+
+## Resources
+
+### Documentation
+
+- [Link to Documentation](https://your-documentation-link.com)
+
+### Tutorials
+
+- [Tutorial 1 Title](https://tutorial-1-link.com)
+- [Tutorial 2 Title](https://tutorial-2-link.com)
+
+### Additional Reading
+
+- [Article 1 Title](https://article-1-link.com)
+- [Article 2 Title](https://article-2-link.com)
+
+### Community
+
+- [Community Forum](https://community-forum-link.com)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/your-project)
+
+### Related Projects
+
+- [Related Project 1](https://related-project-1-link.com)
+- [Related Project 2](https://related-project-2-link.com)
+
+## To-Do
+
+- [ ] Deep Dive Into Error Analysis
+- [ ] Understanding Confusion Matrix in Deep Learning
+- [ ] Classwise Metrics for Model Evaluation
+- [ ] Enhance Testing with Test Time Augmentation
+- [ ] Improving Stability with Exponential Moving Average
+- [ ] Stochastic Weight Averaging
+- [ ] Gradient Checkpointing
+- [ ] Adversarial Training
+- [ ] Model Explainability
+- [ ] Out of Fold Prediction
+- [ ] TensorBoard Logging
+- [ ] Autoscaling Batch Size
+- [ ] Transfer Learning
+- [ ] Differential Learning Rate
+- [ ] Layerwise Learning Rate Decay
+- [ ] Freeze / Unfreeze
+- [ ] Progressive Scaling
+- [ ] Self Distillation
+- [ ] OneCycleLR
+- [ ] Distributed Training
