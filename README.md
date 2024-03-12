@@ -109,7 +109,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [x] Gradient Checkpointing
 
 // 13.3.2024
-- [ ] Enhance Testing with Test Time Augmentation
+- [x] Enhance Testing with Test Time Augmentation
 - [ ] Model Explainability
 
 // 14.3.2024
