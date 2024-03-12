@@ -77,6 +77,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [5 Must-Have Tricks When Training Neural Networks](https://deci.ai/blog/tricks-training-neural-networks/)
 - [Deep Learning Tips and Tricks](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
 - [Neural Network Tips and Tricks](https://thedatascientist.com/tips-tricks-neural-networks/)
+- [A bunch of tips and tricks for training deep neural networks](https://towardsdatascience.com/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks-3ca24c31ddc8)
 
 ### GitHub
 
@@ -87,6 +88,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [Tricks used in Deep Learning](https://github.com/bobchennan/tricks-used-in-deep-learning)
 - [Efficient Deep Learning](https://github.com/Mountchicken/Efficient-Deep-Learning)
 - [Deep Learning Tips and Tricks](https://github.com/ayyucedemirbas/Deep-Learning-Tips-and-Tricks)
+- [Torch Memory-adaptive Algorithms (TOMA)](https://github.com/BlackHC/toma/tree/master)
 
 ### Papers
 
