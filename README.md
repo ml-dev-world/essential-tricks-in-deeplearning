@@ -32,10 +32,12 @@ Master key techniques to enhance your deep learning skills. This repository is a
 22. [Logging Model Parameters](./22_Logging_Model_Parameters.ipynb) - Logging model parameters - flops, trainable params, size etc.
 23. [Understanding CUDA Memory Usage](./23_Understanding_CUDA_Memory_Usage) - Manage GPU Usage.
 24. [Hyperparameter Tuning With optuna](./24_Hyperparameter_Tuning_With_optuna.ipynb) - Automate the optimization process of hyperparameters.
-24.2. [Hyperparameter Tuning With optuna - Training](./24_2_Hyperparameter_Tuning_With_optuna.ipynb) - Notebook demonstrating training with optimal hyperparams.
-25. [Deep Dive Into Error Analysis](./25_Deep_Dive_Into_Error_Analysis.ipynb) - How to calculate and evaluate your model.
-26. [Understanding Confusion Matrix in Deep Learning](./26_Understanding_Confusion_Matrix_In_Deep_Learning.ipynb) - Implement confusion matrix.
-27. [Classwise Metrics for Model Evaluation](27_Classwise_Metrics_For_Model_Evaluation.ipynb) - How to calculate class wise metrics.
+    - [Hyperparameter Tuning With optuna - Training](./24_2_Hyperparameter_Tuning_With_optuna.ipynb) - Notebook demonstrating training with optimal hyperparams.
+26. [Deep Dive Into Error Analysis](./25_Deep_Dive_Into_Error_Analysis.ipynb) - How to calculate and evaluate your model.
+27. [Understanding Confusion Matrix in Deep Learning](./26_Understanding_Confusion_Matrix_In_Deep_Learning.ipynb) - Implement confusion matrix.
+28. [Classwise Metrics for Model Evaluation](27_Classwise_Metrics_For_Model_Evaluation.ipynb) - How to calculate class wise metrics.
+29. [Stochastic Weight Averaging For Improved Convergence](28_Stochastic_Weight_Averaging_For_Improved_Convergence.ipynb) - Ensemble model via weight averaging.
+30. [Memory Efficient Models With Checkpointing](29_Memory_Efficient_Models_with_Checkpointing.ipynb) - Efficient memory usage in training.
 
 ## YouTube Playlist
 
@@ -73,10 +75,12 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
 - [Performance Tuning Guide](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html#enable-asynchronous-data-loading-and-augmentation)
 - [Speed Up Model Training](https://lightning.ai/docs/pytorch/stable/advanced/speed.html)
+- [EFFECTIVE TRAINING TECHNIQUES](https://lightning.ai/docs/pytorch/stable/advanced/training_tricks.html)
 - [Methods and tools for efficient training on a single GPU](https://huggingface.co/docs/transformers/en/perf_train_gpu_one)
 - [5 Must-Have Tricks When Training Neural Networks](https://deci.ai/blog/tricks-training-neural-networks/)
 - [Deep Learning Tips and Tricks](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
 - [Neural Network Tips and Tricks](https://thedatascientist.com/tips-tricks-neural-networks/)
+- [A bunch of tips and tricks for training deep neural networks](https://towardsdatascience.com/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks-3ca24c31ddc8)
 
 ### GitHub
 
@@ -87,6 +91,8 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [Tricks used in Deep Learning](https://github.com/bobchennan/tricks-used-in-deep-learning)
 - [Efficient Deep Learning](https://github.com/Mountchicken/Efficient-Deep-Learning)
 - [Deep Learning Tips and Tricks](https://github.com/ayyucedemirbas/Deep-Learning-Tips-and-Tricks)
+- [Torch Memory-adaptive Algorithms (TOMA)](https://github.com/BlackHC/toma/tree/master)
+- [Trading compute for memory in PyTorch models using Checkpointing](https://github.com/prigoyal/pytorch_memonger/blob/master/tutorial/Checkpointing_for_PyTorch_models.ipynb)
 
 ### Papers
 
@@ -98,20 +104,30 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [x] Deep Dive Into Error Analysis
 - [x] Understanding Confusion Matrix in Deep Learning
 - [x] Classwise Metrics for Model Evaluation
+- [x] Stochastic Weight Averaging
+- [x] Gradient Checkpointing
+
+// 13.3.2024
 - [ ] Enhance Testing with Test Time Augmentation
-- [ ] Improving Stability with Exponential Moving Average
-- [ ] Stochastic Weight Averaging
-- [ ] Gradient Checkpointing
-- [ ] Adversarial Training
 - [ ] Model Explainability
-- [ ] Out of Fold Prediction
-- [ ] TensorBoard Logging
-- [ ] Autoscaling Batch Size
+
+// 14.3.2024
 - [ ] Transfer Learning
 - [ ] Differential Learning Rate
 - [ ] Layerwise Learning Rate Decay
 - [ ] Freeze / Unfreeze
+
+// 15.3.2024
+- [ ] Improving Stability with Exponential Moving Average
+- [ ] TensorBoard Logging
+
+// 16.3.2024
+- [ ] Adversarial Training
+- [ ] Autoscaling Batch Size
 - [ ] Progressive Image Resizing
+
+// 17.3.2024
+- [ ] Out of Fold Prediction
 - [ ] Self Distillation
 - [ ] OneCycleLR
 - [ ] Distributed Training
