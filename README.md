@@ -90,6 +90,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [Efficient Deep Learning](https://github.com/Mountchicken/Efficient-Deep-Learning)
 - [Deep Learning Tips and Tricks](https://github.com/ayyucedemirbas/Deep-Learning-Tips-and-Tricks)
 - [Torch Memory-adaptive Algorithms (TOMA)](https://github.com/BlackHC/toma/tree/master)
+- [Trading compute for memory in PyTorch models using Checkpointing](https://github.com/prigoyal/pytorch_memonger/blob/master/tutorial/Checkpointing_for_PyTorch_models.ipynb)
 
 ### Papers
 
@@ -103,20 +104,24 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [x] Classwise Metrics for Model Evaluation
 - [x] Stochastic Weight Averaging
 - [x] Gradient Checkpointing
+
+// 13.3.2024
 - [ ] Enhance Testing with Test Time Augmentation
-- [ ] Improving Stability with Exponential Moving Average
-
-
-- [ ] Adversarial Training
 - [ ] Model Explainability
-- [ ] Out of Fold Prediction
-- [ ] TensorBoard Logging
-- [ ] Autoscaling Batch Size
+// 14.3.2024
 - [ ] Transfer Learning
 - [ ] Differential Learning Rate
 - [ ] Layerwise Learning Rate Decay
 - [ ] Freeze / Unfreeze
+// 15.3.2024
+- [ ] Improving Stability with Exponential Moving Average
+- [ ] TensorBoard Logging
+// 16.3.2024
+- [ ] Adversarial Training
+- [ ] Autoscaling Batch Size
 - [ ] Progressive Image Resizing
+// 17.3.2024
+- [ ] Out of Fold Prediction
 - [ ] Self Distillation
 - [ ] OneCycleLR
 - [ ] Distributed Training
