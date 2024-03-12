@@ -73,6 +73,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
 - [Performance Tuning Guide](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html#enable-asynchronous-data-loading-and-augmentation)
 - [Speed Up Model Training](https://lightning.ai/docs/pytorch/stable/advanced/speed.html)
+- [EFFECTIVE TRAINING TECHNIQUES](https://lightning.ai/docs/pytorch/stable/advanced/training_tricks.html)
 - [Methods and tools for efficient training on a single GPU](https://huggingface.co/docs/transformers/en/perf_train_gpu_one)
 - [5 Must-Have Tricks When Training Neural Networks](https://deci.ai/blog/tricks-training-neural-networks/)
 - [Deep Learning Tips and Tricks](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)
