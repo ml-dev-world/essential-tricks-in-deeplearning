@@ -101,10 +101,12 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [x] Deep Dive Into Error Analysis
 - [x] Understanding Confusion Matrix in Deep Learning
 - [x] Classwise Metrics for Model Evaluation
+- [x] Stochastic Weight Averaging
+- [x] Gradient Checkpointing
 - [ ] Enhance Testing with Test Time Augmentation
 - [ ] Improving Stability with Exponential Moving Average
-- [ ] Stochastic Weight Averaging
-- [ ] Gradient Checkpointing
+
+
 - [ ] Adversarial Training
 - [ ] Model Explainability
 - [ ] Out of Fold Prediction
