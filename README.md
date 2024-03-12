@@ -36,6 +36,8 @@ Master key techniques to enhance your deep learning skills. This repository is a
 25. [Deep Dive Into Error Analysis](./25_Deep_Dive_Into_Error_Analysis.ipynb) - How to calculate and evaluate your model.
 26. [Understanding Confusion Matrix in Deep Learning](./26_Understanding_Confusion_Matrix_In_Deep_Learning.ipynb) - Implement confusion matrix.
 27. [Classwise Metrics for Model Evaluation](27_Classwise_Metrics_For_Model_Evaluation.ipynb) - How to calculate class wise metrics.
+28. [Stochastic Weight Averaging For Improved Convergence](28_Stochastic_Weight_Averaging_For_Improved_Convergence.ipynb) - Ensemble model via weight averaging.
+29. [Memory Efficient Models With Checkpointing](29_Memory_Efficient_Models_with_Checkpointing.ipynb) - Efficient memory usage in training.
 
 ## YouTube Playlist
 
