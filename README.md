@@ -108,18 +108,22 @@ We welcome contributions from the community! If you have suggestions, bug report
 // 13.3.2024
 - [ ] Enhance Testing with Test Time Augmentation
 - [ ] Model Explainability
+
 // 14.3.2024
 - [ ] Transfer Learning
 - [ ] Differential Learning Rate
 - [ ] Layerwise Learning Rate Decay
 - [ ] Freeze / Unfreeze
+
 // 15.3.2024
 - [ ] Improving Stability with Exponential Moving Average
 - [ ] TensorBoard Logging
+
 // 16.3.2024
 - [ ] Adversarial Training
 - [ ] Autoscaling Batch Size
 - [ ] Progressive Image Resizing
+
 // 17.3.2024
 - [ ] Out of Fold Prediction
 - [ ] Self Distillation
