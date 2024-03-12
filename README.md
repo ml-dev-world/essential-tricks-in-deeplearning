@@ -33,11 +33,12 @@ Master key techniques to enhance your deep learning skills. This repository is a
 23. [Understanding CUDA Memory Usage](./23_Understanding_CUDA_Memory_Usage) - Manage GPU Usage.
 24. [Hyperparameter Tuning With optuna](./24_Hyperparameter_Tuning_With_optuna.ipynb) - Automate the optimization process of hyperparameters.
     - [Hyperparameter Tuning With optuna - Training](./24_2_Hyperparameter_Tuning_With_optuna.ipynb) - Notebook demonstrating training with optimal hyperparams.
-26. [Deep Dive Into Error Analysis](./25_Deep_Dive_Into_Error_Analysis.ipynb) - How to calculate and evaluate your model.
-27. [Understanding Confusion Matrix in Deep Learning](./26_Understanding_Confusion_Matrix_In_Deep_Learning.ipynb) - Implement confusion matrix.
-28. [Classwise Metrics for Model Evaluation](27_Classwise_Metrics_For_Model_Evaluation.ipynb) - How to calculate class wise metrics.
-29. [Stochastic Weight Averaging For Improved Convergence](28_Stochastic_Weight_Averaging_For_Improved_Convergence.ipynb) - Ensemble model via weight averaging.
-30. [Memory Efficient Models With Checkpointing](29_Memory_Efficient_Models_with_Checkpointing.ipynb) - Efficient memory usage in training.
+25. [Deep Dive Into Error Analysis](./25_Deep_Dive_Into_Error_Analysis.ipynb) - How to calculate and evaluate your model.
+26. [Understanding Confusion Matrix in Deep Learning](./26_Understanding_Confusion_Matrix_In_Deep_Learning.ipynb) - Implement confusion matrix.
+27. [Classwise Metrics for Model Evaluation](27_Classwise_Metrics_For_Model_Evaluation.ipynb) - How to calculate class wise metrics.
+28. [Stochastic Weight Averaging For Improved Convergence](28_Stochastic_Weight_Averaging_For_Improved_Convergence.ipynb) - Ensemble model via weight averaging.
+29. [Memory Efficient Models With Checkpointing](29_Memory_Efficient_Models_with_Checkpointing.ipynb) - Efficient memory usage in training.
+30. [Enhancing Testing with Test Time Augmentation](30_Enhancing_Testing_With_Test_Time_Augmentation.ipynb) - Enhancing model predictions with augmentation.
 
 ## YouTube Playlist
 
