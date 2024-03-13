@@ -39,6 +39,8 @@ Master key techniques to enhance your deep learning skills. This repository is a
 28. [Stochastic Weight Averaging For Improved Convergence](28_Stochastic_Weight_Averaging_For_Improved_Convergence.ipynb) - Ensemble model via weight averaging.
 29. [Memory Efficient Models With Checkpointing](29_Memory_Efficient_Models_with_Checkpointing.ipynb) - Efficient memory usage in training.
 30. [Enhancing Testing with Test Time Augmentation](30_Enhancing_Testing_With_Test_Time_Augmentation.ipynb) - Enhancing model predictions with augmentation.
+31. [Model Interpretibilit With captum](31_Model_Interpretibility_With_captum.ipynb) - Exploring Model Insights with Interpretability.
+
 
 ## YouTube Playlist
 
@@ -110,7 +112,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 // 13.3.2024
 - [x] Enhance Testing with Test Time Augmentation
-- [ ] Model Explainability
+- [x] Model Explainability
 
 // 14.3.2024
 - [ ] Transfer Learning
