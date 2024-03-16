@@ -40,7 +40,9 @@ Master key techniques to enhance your deep learning skills. This repository is a
 29. [Memory Efficient Models With Checkpointing](29_Memory_Efficient_Models_with_Checkpointing.ipynb) - Efficient memory usage in training.
 30. [Enhancing Testing with Test Time Augmentation](30_Enhancing_Testing_With_Test_Time_Augmentation.ipynb) - Enhancing model predictions with augmentation.
 31. [Model Interpretibilit With captum](31_Model_Interpretibility_With_captum.ipynb) - Exploring Model Insights with Interpretability.
-
+32. [Going Deeper with Transfer Learning](32_Going_Deeper_With_Transfer_Learning.ipynb) - Leverage knowledge gained from solving one problem to improve performance on another problem.
+33. [Freeze Unfreeze Backbone](33_Freezing_Backbone.ipynb) - Selectively enabling or disabling the training of specific layers
+34. [Differential Learning Rate](34_Differential_Learning_Rate.ipynb) - Different learning rates are applied to different parameters.
 
 ## YouTube Playlist
 
