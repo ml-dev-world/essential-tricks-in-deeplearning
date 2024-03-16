@@ -43,6 +43,7 @@ Master key techniques to enhance your deep learning skills. This repository is a
 32. [Going Deeper with Transfer Learning](32_Going_Deeper_With_Transfer_Learning.ipynb) - Leverage knowledge gained from solving one problem to improve performance on another problem.
 33. [Freeze Unfreeze Backbone](33_Freezing_Backbone.ipynb) - Selectively enabling or disabling the training of specific layers
 34. [Differential Learning Rate](34_Differential_Learning_Rate.ipynb) - Different learning rates are applied to different parameters.
+35. [Layerwise LR Decay](./35_Layerwise_Learning_Rate_Decay.ipynb) -  Training deep neural networks to adjust the learning rate for each layer individually.
 
 ## YouTube Playlist
 
@@ -119,7 +120,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 // 14.3.2024
 - [x] Transfer Learning
 - [x] Differential Learning Rate
-- [ ] Layerwise Learning Rate Decay
+- [x] Layerwise Learning Rate Decay
 - [x] Freeze / Unfreeze
 
 // 15.3.2024
