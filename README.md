@@ -30,7 +30,7 @@ Master key techniques to enhance your deep learning skills. This repository is a
 20. [Early Stopping Strategies For Training](./20_Early_Stopping_Strategies_For_Training.ipynb) - Selection of a reasonably optimal model.
 21. [Experiment Tracking With mlflow](./21_Experiment_Tracking_With_mlflow.ipynb) - mlflow for Experiment Tracking
 22. [Logging Model Parameters](./22_Logging_Model_Parameters.ipynb) - Logging model parameters - flops, trainable params, size etc.
-23. [Understanding CUDA Memory Usage](./23_Understanding_CUDA_Memory_Usage) - Manage GPU Usage.
+23. [Understanding CUDA Memory Usage](./23_Understanding_CUDA_Memory_Usage.ipynb) - Manage GPU Usage.
 24. [Hyperparameter Tuning With optuna](./24_Hyperparameter_Tuning_With_optuna.ipynb) - Automate the optimization process of hyperparameters.
     - [Hyperparameter Tuning With optuna - Training](./24_2_Hyperparameter_Tuning_With_optuna.ipynb) - Notebook demonstrating training with optimal hyperparams.
 25. [Deep Dive Into Error Analysis](./25_Deep_Dive_Into_Error_Analysis.ipynb) - How to calculate and evaluate your model.
@@ -39,6 +39,8 @@ Master key techniques to enhance your deep learning skills. This repository is a
 28. [Stochastic Weight Averaging For Improved Convergence](28_Stochastic_Weight_Averaging_For_Improved_Convergence.ipynb) - Ensemble model via weight averaging.
 29. [Memory Efficient Models With Checkpointing](29_Memory_Efficient_Models_with_Checkpointing.ipynb) - Efficient memory usage in training.
 30. [Enhancing Testing with Test Time Augmentation](30_Enhancing_Testing_With_Test_Time_Augmentation.ipynb) - Enhancing model predictions with augmentation.
+31. [Model Interpretibilit With captum](31_Model_Interpretibility_With_captum.ipynb) - Exploring Model Insights with Interpretability.
+
 
 ## YouTube Playlist
 
@@ -110,7 +112,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 // 13.3.2024
 - [x] Enhance Testing with Test Time Augmentation
-- [ ] Model Explainability
+- [x] Model Explainability
 
 // 14.3.2024
 - [ ] Transfer Learning
