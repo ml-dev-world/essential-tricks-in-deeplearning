@@ -47,6 +47,7 @@ Master key techniques to enhance your deep learning skills. This repository is a
 36. [Improving Stability With EMA](./36_Improving_Stability_With_EMA.ipynb) -  Stabilize training and improve model performance.
 37. [Progressive Resizing](./37_Progressive_Resizing.ipynb) - Adjust the size of images progressively based on the epoch.
 38. [Online Hard Negative Mining](./38_Online_Hard_Negative_Mining.ipynb) - Prioritize hard examples during training.
+39. [`torch.compile`](./39_Torch_Compile.ipynb) - latest method to speed up your PyTorch code! Run PyTorch code faster by JIT-compiling PyTorch code into optimized kernels, all while requiring minimal code changes.
 
 ## YouTube Playlist
 
@@ -131,8 +132,8 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 // 16.3.2024
 - [x] Progressive Image Resizing
-- [ ] OHEM
-- [ ] Torchcompiler
+- [x] OHEM
+- [x] Torchcompiler
 - [ ] Adversarial training
 - [ ] Distributed Training
 - [ ] TensorBoard Logging
