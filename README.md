@@ -44,6 +44,7 @@ Master key techniques to enhance your deep learning skills. This repository is a
 33. [Freeze Unfreeze Backbone](33_Freezing_Backbone.ipynb) - Selectively enabling or disabling the training of specific layers
 34. [Differential Learning Rate](34_Differential_Learning_Rate.ipynb) - Different learning rates are applied to different parameters.
 35. [Layerwise LR Decay](./35_Layerwise_Learning_Rate_Decay.ipynb) -  Training deep neural networks to adjust the learning rate for each layer individually.
+36. [Improving Stability With EMA](./36_Improving_Stability_With_EMA.ipynb) -  Stabilize training and improve model performance.
 
 ## YouTube Playlist
 
