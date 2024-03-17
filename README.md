@@ -45,6 +45,7 @@ Master key techniques to enhance your deep learning skills. This repository is a
 34. [Differential Learning Rate](34_Differential_Learning_Rate.ipynb) - Different learning rates are applied to different parameters.
 35. [Layerwise LR Decay](./35_Layerwise_Learning_Rate_Decay.ipynb) -  Training deep neural networks to adjust the learning rate for each layer individually.
 36. [Improving Stability With EMA](./36_Improving_Stability_With_EMA.ipynb) -  Stabilize training and improve model performance.
+37. [Progressive Resizing](./37_Progressive_Resizing.ipynb) - Adjust the size of images progressively based on the epoch.
 
 ## YouTube Playlist
 
@@ -126,15 +127,17 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 // 15.3.2024
 - [x] Improving Stability with Exponential Moving Average
-- [ ] TensorBoard Logging
 
 // 16.3.2024
-- [ ] Adversarial Training
-- [ ] Autoscaling Batch Size
-- [ ] Progressive Image Resizing
+- [x] Progressive Image Resizing
+- [ ] OHEM
+- [ ] Torchcompiler
+- [ ] Adversarial training
+- [ ] Distributed Training
+- [ ] TensorBoard Logging
 
-// 17.3.2024
+Extras - 
+- [ ] Autoscaling Batch Size
 - [ ] Out of Fold Prediction
 - [ ] Self Distillation
 - [ ] OneCycleLR
-- [ ] Distributed Training
