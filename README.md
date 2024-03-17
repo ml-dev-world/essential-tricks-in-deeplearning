@@ -145,3 +145,6 @@ Extras -
 - [ ] Out of Fold Prediction
 - [ ] Self Distillation
 - [ ] OneCycleLR
+- [ ] Snapshot ensembles
+- [ ] Focal loss
+- [ ] Drop path
