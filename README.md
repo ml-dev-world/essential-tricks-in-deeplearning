@@ -46,6 +46,7 @@ Master key techniques to enhance your deep learning skills. This repository is a
 35. [Layerwise LR Decay](./35_Layerwise_Learning_Rate_Decay.ipynb) -  Training deep neural networks to adjust the learning rate for each layer individually.
 36. [Improving Stability With EMA](./36_Improving_Stability_With_EMA.ipynb) -  Stabilize training and improve model performance.
 37. [Progressive Resizing](./37_Progressive_Resizing.ipynb) - Adjust the size of images progressively based on the epoch.
+38. [Online Hard Negative Mining](./38_Online_Hard_Negative_Mining.ipynb) - Prioritize hard examples during training.
 
 ## YouTube Playlist
 
