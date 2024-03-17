@@ -48,6 +48,7 @@ Master key techniques to enhance your deep learning skills. This repository is a
 37. [Progressive Resizing](./37_Progressive_Resizing.ipynb) - Adjust the size of images progressively based on the epoch.
 38. [Online Hard Negative Mining](./38_Online_Hard_Negative_Mining.ipynb) - Prioritize hard examples during training.
 39. [`torch.compile`](./39_Torch_Compile.ipynb) - latest method to speed up your PyTorch code! Run PyTorch code faster by JIT-compiling PyTorch code into optimized kernels, all while requiring minimal code changes.
+40. [Model Serialization and Export](./40_Model_Serialization_&_Export.ipynb) - Multiple model export strategies like state dict, ONNX, and TorchScript. How to convert PyTorch models to TensorFlow and TensorFlow Lite, with guidance on inference execution.
 
 ## YouTube Playlist
 
@@ -134,11 +135,12 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [x] Progressive Image Resizing
 - [x] OHEM
 - [x] Torchcompiler
-- [ ] Adversarial training
-- [ ] Distributed Training
-- [ ] TensorBoard Logging
+- [x] Model Serialization & Export
 
 Extras - 
+- [ ] Distributed Training
+- [ ] TensorBoard Logging
+- [ ] Adversarial training
 - [ ] Autoscaling Batch Size
 - [ ] Out of Fold Prediction
 - [ ] Self Distillation
