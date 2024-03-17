@@ -125,7 +125,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [x] Freeze / Unfreeze
 
 // 15.3.2024
-- [ ] Improving Stability with Exponential Moving Average
+- [x] Improving Stability with Exponential Moving Average
 - [ ] TensorBoard Logging
 
 // 16.3.2024
