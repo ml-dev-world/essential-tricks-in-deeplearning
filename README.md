@@ -111,32 +111,6 @@ We welcome contributions from the community! If you have suggestions, bug report
 - [Tricks From Deep Learning](https://arxiv.org/abs/1611.03777)
 
 ## To-Do
-
-- [x] Deep Dive Into Error Analysis
-- [x] Understanding Confusion Matrix in Deep Learning
-- [x] Classwise Metrics for Model Evaluation
-- [x] Stochastic Weight Averaging
-- [x] Gradient Checkpointing
-
-// 13.3.2024
-- [x] Enhance Testing with Test Time Augmentation
-- [x] Model Explainability
-
-// 14.3.2024
-- [x] Transfer Learning
-- [x] Differential Learning Rate
-- [x] Layerwise Learning Rate Decay
-- [x] Freeze / Unfreeze
-
-// 15.3.2024
-- [x] Improving Stability with Exponential Moving Average
-
-// 16.3.2024
-- [x] Progressive Image Resizing
-- [x] OHEM
-- [x] Torchcompiler
-- [x] Model Serialization & Export
-
 Extras - 
 - [ ] Distributed Training
 - [ ] TensorBoard Logging
