@@ -38,7 +38,7 @@ Master key techniques to enhance your deep learning skills. This repository is a
 ### Precision and Efficiency
 1. [Automatic Mixed Precision Training](./06_Precision_and_Efficiency/18_Automatic_Mixed_Precision_Training.ipynb) -  Accelerate training by using a combination of lower-precision and higher-precision numerical representations.
 
-## Experiment Management and Monitoring
+### Experiment Management and Monitoring
 1. [Dynamic Progress Bar Using tqdm](./07_Experiment_Management_and_Monitoring/03_Dynamic_Progress_Bar_Using_tqdm.ipynb) - Explore model initialization strategies and minor bug fixes.
 2. [Ensuring Experiment Reproducibility](./07_Experiment_Management_and_Monitoring/10_Ensuring_Experiment_Reproducibility.ipynb) - Implement practices to ensure reproducibility in your experiments.
 3. [Effective Model Checkpointing](./07_Experiment_Management_and_Monitoring/19_Effective_Model_Checkpointing.ipynb) - Selecting the best-performing model.
