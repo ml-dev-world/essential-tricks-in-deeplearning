@@ -14,7 +14,7 @@ Master key techniques to enhance your deep learning skills. The repository is a 
 
 ### Data Loading and Processing
 1. [Memory Efficient DataLoader And Parallelization](./02_Data_Loading_and_Processing/07_Memory_Efficient_DataLoader_And_Parallelization.ipynb) - Optimize data loading and processing for memory efficiency.
-2. [Data Augmentation Using torchvision](./02_Data_Loading_and_Processing/08_Data_Augmentation_Using_torchvision.ipynb) - Implement data augmentation techniques using the torchvision library.
+2. [Data Augmentation Using torchvision](./02_Data_Loading_and_Processing/08_Data_Augmentation_Using_torchvision.ipynb) - Implement the data augmentation techniques using the torchvision library.
 
 ### Model Initialization and Regularization:
 1. [Decoding Dropout Technique](./03_Model_Initialization_and_Regularization/04_Decoding_Dropout_Technique.ipynb) - Unravel the dropout technique and its impact on model training.
